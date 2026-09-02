@@ -8,3 +8,6 @@ def subtract(a, b):
 
 print(add(10, 20))
 print(subtract(20, 10))
+
+def multiply(a, b):
+    return a * b
